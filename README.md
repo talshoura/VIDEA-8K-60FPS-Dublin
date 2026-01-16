@@ -253,9 +253,6 @@ The full list of the histograms is available [here](histograms/) as images and i
   <img src="histograms\30sec\058_30sec_histogram.png" width="49.5%" />
   <img src="histograms\30sec\058_30sec_saturation.png" width="49.5%" />
 
-  <img src="histograms\10sec\013_10sec_histogram.png" width="49.5%" />
-  <img src="histograms\10sec\013_10sec_saturation.png" width="49.5%" />
-
   <img src="histograms\10sec\152_10sec_histogram.png" width="49.5%" />
   <img src="histograms\10sec\152_10sec_saturation.png" width="49.5%" />
 
