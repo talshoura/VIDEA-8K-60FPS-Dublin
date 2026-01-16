@@ -1,0 +1,16 @@
+video_number,cluster,split
+030_60s,0,train
+031_60s,1,train
+032_60s,0,train
+033_60s,2,train
+034_60s,1,train
+035_60s,2,test
+036_60s,0,train
+037_60s,2,train
+038_60s,1,train
+039_60s,2,train
+040_60s,0,train
+041_60s,0,test
+042_60s,1,test
+043_60s,1,train
+044_60s,1,train
